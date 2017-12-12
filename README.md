@@ -78,3 +78,5 @@
     * _Feature comparison_
 
 ##### 3. Crea un *sketch* para la herramienta del dashboard de Laboratoria.
+
+![sketch](https://github.com/frishlin/UX-Readme/blob/master/SKETCH.png)
