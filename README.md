@@ -8,13 +8,17 @@
 * Criterios de selección
 * Pasos para postular
 * Calendarización
-* preguntas frecuentes
+* Preguntas frecuentes
+* Propuesta de fotografías
 
 ### Partes UI
 * Logo
 * Diseño de colores
 * Formulario de postulación
 * Chat en línea
+* Todo se encuentra centrado
+* Se adapta al tamaño de la pantalla de los dispositivos
+
 
 
 ##### 2. Identifica los elementos de navegación de: *Github*
